@@ -1,0 +1,35 @@
+/* Archivo: colors.css */
+
+/* ------------------ */
+/* Variables de colores */
+/* ------------------ */
+:root {
+    /* Color 1: Negro */
+    --color-negro-light: #E6E6E6;
+    --color-negro-lightactive: #B0B0B0;
+    --color-negro: #000000; /* Normal */
+
+    /* Color 2: Gris */
+    --color-gris-light: #FDFDFD;
+    --color-gris-lightactive: #F7F7F7;
+    --color-gris: #E6E6E6; /* Normal */
+    --color-gris-dark: #ADADAD;
+    --color-gris-darker: #676767;
+    --color-gris-darkest: #515151;
+
+    /* Color 3: Rosado */
+    --color-rosa-light: #FDF8F8;
+    --color-rosa-lightactive: #F8E9E9;
+    --color-rosa: #E8B8B8; /* Normal */
+    --color-rosa-dark: #AE8A8A;
+    --color-rosa-darker: #685353;
+    --color-rosa-darkest: #514040;
+
+    /* Color 4: Amarillo */
+    --color-amarillo-light: #FFFAE6;
+    --color-amarillo-lightactive: #FEF0B1;
+    --color-amarillo: #FCCE02; /* Normal */
+    --color-amarillo-dark: #BD9B02;
+    --color-amarillo-darker: #715D01;
+    --color-amarillo-darkest: #584801;
+}
